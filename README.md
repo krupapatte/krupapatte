@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,python" />
-    <img src="https://skillicons.dev/icons?i=jupyter notebook,github" /><br>
+    <img src="https://skillicons.dev/icons?i=jupyter_notebook,github" /><br>
 </div>
 
 <br/>
