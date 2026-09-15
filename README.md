@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-🎓 2nd-year student | Computer Science & Business Systems  </h3>
+🎓 3rd-year student | Computer Science & Business Systems  </h3>
 
 <br/>
 
